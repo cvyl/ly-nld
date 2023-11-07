@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Mikka</h1>  
-<h3 align="center">A passionate developer from The Netherlands</h3>  <br/>
+<!--<h3 align="center">A passionate developer from The Netherlands</h3>-->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&pause=1000&color=F7F7F7&center=true&random=true&width=500&lines=A+passionate+developer+from+The+Netherlands;A+Volunteer+localizer+for+open-source+projects;Thank+you+for+visiting+my+profile;I+wish+you+a+wonderful+day"/>
+</p><br/>
   
 - 🌎 I’m looking to collaborate on **localizing projects**  
   
