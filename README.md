@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mikka</h1>  
 <h3 align="center">A passionate developer from The Netherlands</h3>  <br/>
   
-- 👯 I’m looking to collaborate on **localizing projects**  
+- 🌎 I’m looking to collaborate on **localizing projects**  
   
-- 👨‍💻 All of my projects are available [here](https://github.com/mikkaatje?tab=repositories)  
+- 👩‍💻 All of my projects are available [here](https://github.com/mikkaatje?tab=repositories)  
   
 - 📝 I sometimes write articles on [my blog!](https://blog.mikkaatje.nl)  
   
