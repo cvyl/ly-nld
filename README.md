@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 - 📝 I sometimes write articles on [my blog!](#IN_THE_WORKS)  
   
-- 📫 How to reach me *github@lgbt.sh*  
+- 📫 How to reach me *dev@lgbt.sh*  
   
 - ♓ Fun fact **I am a [Pisces](https://en.wikipedia.org/wiki/Pisces_(astrology))!**
   
