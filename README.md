@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   
 - 👩‍💻 All of my projects are available [here](https://github.com/CMXV?tab=repositories)  
   
-- 📝 I sometimes write articles on [my blog!]()  
+- 📝 I sometimes write articles on [my blog!](#IN_THE_WORKS)  
   
-- 📫 How to reach me *unavailable*  
+- 📫 How to reach me *github@lgbt.sh*  
   
 - ♓ Fun fact **I am a [Pisces](https://en.wikipedia.org/wiki/Pisces_(astrology))!**
   
