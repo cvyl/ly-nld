@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 - 👩‍💻 All of my projects are available [here](https://github.com/CMXV?tab=repositories)  
   
-- 📝 I sometimes write articles on [my blog!](#IN_THE_WORKS)  
+- 📝 I sometimes write articles on [my blog!](https://dev.lgbt.sh/blog/)  
   
 - 📫 How to reach me *dev@lgbt.sh*  
   
