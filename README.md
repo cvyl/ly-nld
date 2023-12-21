@@ -1,20 +1,3 @@
-<!--### Hi there 👋
-
-
-**mikkaatje/mikkaatje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Heya! I'm ly-nld</h1>  
 <!--<h3 align="center">A passionate developer from The Netherlands</h3>-->
 <p align="center">
@@ -23,7 +6,7 @@ Here are some ideas to get you started:
   
 - 🌎 I’m looking to collaborate on **localizing projects**  
   
-- 👩‍💻 All of my projects are available [here](https://github.com/CMXV?tab=repositories)  
+- 👩‍💻 All of my projects are available [here](https://github.com/ly-nld?tab=repositories)  
   
 - 📝 I sometimes write articles on [my blog!](https://blog.lgbt.sh)  
   
