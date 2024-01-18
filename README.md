@@ -18,7 +18,7 @@ I hope to make positive connections with people on the internet. I want to make 
   
 - 👩‍💻 All of my projects are available [here](https://github.com/cvyl?tab=repositories)  
   
-- 📝 I sometimes write articles on [my blog!](https://blog.lgbt.sh)  
+- 📝 I sometimes write articles on [my blog!](https://blog.cvyl.me)  
   
 - 📫 How to reach me *cvyl@pm.me*  
   
