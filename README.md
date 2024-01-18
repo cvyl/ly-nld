@@ -65,3 +65,5 @@ I hope to make positive connections with people on the internet. I want to make 
   [![](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fly-nld)](https://github.com/cvyl)
   [![](https://img.shields.io/badge/Maid.JS-white.svg?&style=for-the-badge&color=black)](https://maid.js.org/)
   [![](https://img.shields.io/badge/Crowdin-2E3340?logo=crowdin&logoColor=fff&style=for-the-badge)](https://crowdin.com/profile/kohada/)
+
+  *人生就像一盘西洋棋，我不会下西洋棋。*
