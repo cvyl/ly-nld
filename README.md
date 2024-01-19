@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Development has currently been halted**
 > 
-> > I am currently working on my education and will not be able to work as much on any GitHub projects.
+> > I am currently working on my education and mental health. I will not be able to work as much on any GitHub projects.
 > >
 > > You can still contact me via my social media or email if needed.
 
