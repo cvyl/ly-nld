@@ -40,16 +40,17 @@ jobs:
           plugin_languages_analysis_timeout: 30
           plugin_languages_categories: programming
           
-          plugin_notable: yes
-          plugin_notable_filter: stars:>150 forks:>20
-          plugin_notable_from: orgnization
-          plugin_notable_repositories: yes
-          plugin_notable_indepth: yes
-          plugin_notable_self: no
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: 018bbf84-3c52-49cf-9d57-73dd6277abd4
 
           user: cvyl
           base: ''
-          filename: metrics-lang-notable.svg
+          filename: metrics-lang-wakatime.svg
           template: classic
           repositories: 240
           repositories_batch: 40
