@@ -9,7 +9,7 @@
 
 <img align="right" width="150" src="https://github.com/cvyl/ly-nld/assets/38471793/05818e2e-56ca-440d-98cd-411c1e212c31"/>
 
-Hello, I am cvyl! I am an amateur web developer hoping to become a FSD (Full Stack Developer) some day.
+Hello, I am cvyl! I am an amateur web developer hoping to become a FSD (Full Stack Developer) someday.
 
 I have been working on i18n (internationalization) on many open-source projects and I've started a few projects of my own (in pinned repositories).
 
@@ -18,7 +18,7 @@ I hope to make positive connections with people on the internet. I want to make 
   
 - 👩‍💻 All of my projects are available [here](https://github.com/cvyl?tab=repositories)  
   
-- 📝 I sometimes write articles on [my blog!](https://blog.cvyl.me)  
+- 📝 I sometimes write articles on [my blog!](https://cvyl.me)  
   
 - 📫 How to reach me *cvyl@pm.me*  
   
