@@ -75,5 +75,7 @@ I hope to make positive connections with people on the internet. I want to make 
 </a>
 
 <!--
+
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=mikka&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on&cache_seconds=1800)
+
 -->
