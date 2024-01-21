@@ -67,3 +67,14 @@ I hope to make positive connections with people on the internet. I want to make 
   [![](https://img.shields.io/badge/Crowdin-2E3340?logo=crowdin&logoColor=fff&style=for-the-badge)](https://crowdin.com/profile/kohada/)
 
   *人生就像一盘西洋棋，我不会下西洋棋。*
+
+<a href="https://github.com/cvyl">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/cvyl">
+  <img align="center" width="49%" src="./metrics-lang-notable.svg" />
+</a>
+
+<!--
+![](https://github-readme-stats.vercel.app/api/wakatime?username=mikka&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on&cache_seconds=1800)
+-->
