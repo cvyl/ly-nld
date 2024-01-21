@@ -59,7 +59,6 @@ I hope to make positive connections with people on the internet. I want to make 
   ![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
   
-
   **Misc**
 
   [![](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fly-nld)](https://github.com/cvyl)
