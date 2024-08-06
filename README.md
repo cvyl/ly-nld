@@ -14,6 +14,7 @@ Hello, I am cvyl! I am an amateur web developer hoping to become an FSD (Full St
 I have been working on i18n (internationalization) on many open-source projects, and I've started a few projects of my own (in pinned repositories).
 
 I hope to make positive connections with people on the internet. I want to make this world a better place for everyone to live on.
+
 - 🌎 I’m looking to collaborate on **localizing projects**  
   
 - 👩‍💻 All of my projects are available [here](https://github.com/cvyl?tab=repositories)  
