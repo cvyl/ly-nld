@@ -21,7 +21,7 @@ I hope to make positive connections with people on the internet. I want to make 
   
 - 📝 I sometimes write articles on [my blog!](https://cvyl.me)  
   
-- 📫 How to reach me *cvyl@pm.me*  
+- 📫 How to reach me *i@cvyl.me*  
   
 - ♓ Fun fact **I am a [Pisces](https://en.wikipedia.org/wiki/Pisces_(astrology))!**
 
