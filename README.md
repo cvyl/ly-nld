@@ -76,7 +76,7 @@ I hope to make positive connections with people on the internet. I want to make 
 
   **Environment**
 
-  ![](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  ![](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=flat-square)
   ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
