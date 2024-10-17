@@ -15,7 +15,7 @@ I have been working on i18n (internationalization) on many open-source projects,
 
 I hope to make positive connections with people on the internet. I want to make this world a better place for everyone to live on.
 
-- 🌎 I’m looking to collaborate on **localizing projects**  
+- 🌎 I’m looking to collaborate on **localizing projects** and **programming**
   
 - 👩‍💻 All of my projects are available [here](https://github.com/cvyl?tab=repositories)  
   
@@ -56,7 +56,14 @@ I hope to make positive connections with people on the internet. I want to make 
   ![](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
   ![](https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white)
   ![](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+  ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+  ![](https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white)
+  ![](https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white)
+
+  **Backend**
+
   ![](https://img.shields.io/badge/Laravel%2010.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+  ![](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
 
   **DevOps**
 
@@ -65,6 +72,7 @@ I hope to make positive connections with people on the internet. I want to make 
   ![](https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white)
   ![](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white)
   ![](https://img.shields.io/badge/-WSL2-4b36c2?style=flat-square&logo=linux&logoColor=white)
+  ![](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
   **Environment**
 
