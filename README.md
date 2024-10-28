@@ -89,6 +89,13 @@ I hope to make positive connections with people on the internet. I want to make 
 
   *人生就像一盘西洋棋，我不会下西洋棋。*
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mvdvelde/">LinkedIn</a> • 
+  <a href="mailto:i@cvyl.me">Email</a> • 
+  <a href="https://medium.com/@mikka123">Medium</a> • 
+  <a href="./cv-28-10-2024.pdf">CV</a>
+</p>
+
 <a href="https://github.com/cvyl">
   <img align="center" width="49%" src="./metrics-main.svg" />
 </a>
