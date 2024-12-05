@@ -85,7 +85,6 @@ I hope to make positive connections with people on the internet. I want to make 
   ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
   ![](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)
 
-
   **Misc**
 
   [![](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fly-nld)](https://github.com/cvyl)
