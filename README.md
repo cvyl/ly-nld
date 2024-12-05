@@ -52,18 +52,23 @@ I hope to make positive connections with people on the internet. I want to make 
   ![](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
   ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
   ![](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
   ![](https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white)
+  ![](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square)
   ![](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-  ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+  ![](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff&style=flat-square)
   ![](https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white)
-  ![](https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white)
+  ![](https://img.shields.io/badge/-Vue%203.x-5BA17F?style=flat-square&logo=vue.js&logoColor=white)
+  ![](https://img.shields.io/badge/Inertia_JS-9553E9?style=flat-square&logo=Inertia&logoColor=white)
 
   **Backend**
 
+  ![](https://img.shields.io/badge/Laravel%2011.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![](https://img.shields.io/badge/Laravel%2010.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)
   ![](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white)
+  ![](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white&style=flat-square)
 
   **DevOps**
 
@@ -78,6 +83,7 @@ I hope to make positive connections with people on the internet. I want to make 
 
   ![](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=flat-square)
   ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+  ![](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff&style=flat-square)
 
 
   **Misc**
